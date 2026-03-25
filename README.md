@@ -1,22 +1,22 @@
 ## Fundamental Booster
 
-## Description
+# Description
 This project is a Python program created in Jupyter Notebook.  
 It collects personal data from the user.
 
-## Inputs
+# Inputs
 The program asks the user for:
 - Name
 - Age
 - Height
 - Favourite Number
 
-## Output
+# Output
 After collecting the data, the program prints the information.
 
-## Tools Used
+# Tools Used
 Python  
 Jupyter Notebook
 
-## Author
+# Author
 Manav Patel
