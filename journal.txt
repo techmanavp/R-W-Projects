@@ -1,0 +1,2 @@
+Today was a productive day. I learned about file handling in python.
+Had a great session on OOP concepts.
